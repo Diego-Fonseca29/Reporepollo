@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Cadenas_Ejercicio1\Cadenas_Ejercicio1\bin\Debug\Cadenas_Ejercicio1.exe.config
+C:\Users\Usuario\source\repos\Cadenas_Ejercicio1\Cadenas_Ejercicio1\bin\Debug\Cadenas_Ejercicio1.exe
+C:\Users\Usuario\source\repos\Cadenas_Ejercicio1\Cadenas_Ejercicio1\bin\Debug\Cadenas_Ejercicio1.pdb
+C:\Users\Usuario\source\repos\Cadenas_Ejercicio1\Cadenas_Ejercicio1\obj\Debug\Cadenas_Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Cadenas_Ejercicio1\Cadenas_Ejercicio1\obj\Debug\Cadenas_Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Cadenas_Ejercicio1\Cadenas_Ejercicio1\obj\Debug\Cadenas_Ejercicio1.exe
+C:\Users\Usuario\source\repos\Cadenas_Ejercicio1\Cadenas_Ejercicio1\obj\Debug\Cadenas_Ejercicio1.pdb
