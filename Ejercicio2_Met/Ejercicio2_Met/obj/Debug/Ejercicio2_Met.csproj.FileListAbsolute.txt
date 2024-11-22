@@ -1,7 +1,0 @@
-C:\Users\dr. waldo fonseca\source\repos\Ejercicio2_Met\Ejercicio2_Met\bin\Debug\Ejercicio2_Met.exe.config
-C:\Users\dr. waldo fonseca\source\repos\Ejercicio2_Met\Ejercicio2_Met\bin\Debug\Ejercicio2_Met.exe
-C:\Users\dr. waldo fonseca\source\repos\Ejercicio2_Met\Ejercicio2_Met\bin\Debug\Ejercicio2_Met.pdb
-C:\Users\dr. waldo fonseca\source\repos\Ejercicio2_Met\Ejercicio2_Met\obj\Debug\Ejercicio2_Met.csproj.AssemblyReference.cache
-C:\Users\dr. waldo fonseca\source\repos\Ejercicio2_Met\Ejercicio2_Met\obj\Debug\Ejercicio2_Met.csproj.CoreCompileInputs.cache
-C:\Users\dr. waldo fonseca\source\repos\Ejercicio2_Met\Ejercicio2_Met\obj\Debug\Ejercicio2_Met.exe
-C:\Users\dr. waldo fonseca\source\repos\Ejercicio2_Met\Ejercicio2_Met\obj\Debug\Ejercicio2_Met.pdb
