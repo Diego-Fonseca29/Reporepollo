@@ -1,7 +1,0 @@
-C:\Users\Usuario\source\repos\Pares\Pares\bin\Debug\Pares.exe.config
-C:\Users\Usuario\source\repos\Pares\Pares\bin\Debug\Pares.exe
-C:\Users\Usuario\source\repos\Pares\Pares\bin\Debug\Pares.pdb
-C:\Users\Usuario\source\repos\Pares\Pares\obj\Debug\Pares.csproj.AssemblyReference.cache
-C:\Users\Usuario\source\repos\Pares\Pares\obj\Debug\Pares.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\source\repos\Pares\Pares\obj\Debug\Pares.exe
-C:\Users\Usuario\source\repos\Pares\Pares\obj\Debug\Pares.pdb
